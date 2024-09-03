@@ -1,0 +1,27 @@
+{
+    "eventType": "com.oraclecloud.objectstorage.createobject",
+    "cloudEventsVersion": "0.1",
+    "eventTypeVersion": "2.0",
+    "source": "ObjectStorage",
+    "eventTime": "2024-08-17T20:47:31Z",
+    "contentType": "application/json",
+    "data": {
+        "compartmentId": "ocid1.compartment.oc1..aaaaaaaa6qe5zqr6dtokrxlyrwaga26wijgrydmfqc2tmnlxmz6qj5kajytq",
+        "compartmentName": "fun_oci_functions",
+        "resourceName": "part2/serverless1c.png",
+        "resourceId": "/n/idsvv7k2bdum/b/fun_oci_functions_bucket/o/part2/serverless1c.png",
+        "availabilityDomain": "IAD-AD-3",
+        "additionalDetails": {
+            "bucketName": "fun_oci_functions_bucket",
+            "versionId": "6c302032-31c6-490f-a0c4-16f26e78a845",
+            "archivalState": "Available",
+            "namespace": "idsvv7k2bdum",
+            "bucketId": "ocid1.bucket.oc1.iad.aaaaaaaabmbcpblc2zl6lydfe5brpp4s65jwasd24esw6m7hrc7pcn4rcrxq",
+            "eTag": "9a49f1d1-170b-4564-a228-39033825678f"
+        }
+    },
+    "eventID": "7d6d3217-f94d-4586-fe05-d3ab093577d2",
+    "extensions": {
+        "compartmentId": "ocid1.compartment.oc1..aaaaaaaa6qe5zqr6dtokrxlyrwaga26wijgrydmfqc2tmnlxmz6qj5kajytq"
+    }
+}

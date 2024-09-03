@@ -1,2 +1,2 @@
-# fun-oci-functions-part2
-Companion repo for Fun with OCI Function Blog Post
+Companion files for the Blog **Fun with OCI Functions - Part2**
+at https://francois-robert.ghost.io/fun-with-oci-functions-part-2/
